@@ -35,10 +35,10 @@
     <script>
         // Array of quotes
         const quotes = [
-            "The only way to do great work is to love what you do - Steve Jobs",
+            "The only way to do great work is to love what you do. - Steve Jobs",
             "In the midst of chaos, there is also opportunity. - Sun Tzu",
             "Success is not final, failure is not fatal: It is the courage to continue that counts. - Winston Churchill",
-            "I'm not very good with quotes. - Asmita",
+            "I'm not very good with quotes :P - Asmita",
             "Believe you can and you're halfway there. - Theodore Roosevelt",
             "The best way to predict the future is to invent it. - Alan Kay",
             "It does not matter how slowly you go as long as you do not stop. - Confucius"
