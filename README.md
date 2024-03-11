@@ -33,7 +33,6 @@
     <button id="generate-btn" onclick="generateQuote()">Generate Quote</button>
 
     <script>
-        // Array of quotes
         const quotes = [
             "The only way to do great work is to love what you do. - Steve Jobs",
             "In the midst of chaos, there is also opportunity. - Sun Tzu",
@@ -45,9 +44,7 @@
         ];
 
         function generateQuote() {
-            // Generate a random index
             const index = Math.floor(Math.random() * quotes.length);
-            // Display the random quote
             document.getElementById('quote').innerHTML = quotes[index];
         }
     </script>
